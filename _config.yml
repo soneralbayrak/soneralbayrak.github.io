@@ -64,7 +64,7 @@ content:
             - Interested in cosmology, conformal bootstrap, and holography
             - Postdoctoral researcher in the string theory group at the University of Amsterdam
             - Received PhD from Yale University
-            - [CV](https://docs.google.com/viewer?url=https://github.com/soneralbayrak/resume/raw/acbe71f617faf6ffc15d760162d68b2fe9e90206/soner_albayrak_resume.pdf)
+            - <a href="https://docs.google.com/viewer?url=https://github.com/soneralbayrak/resume/raw/acbe71f617faf6ffc15d760162d68b2fe9e90206/soner_albayrak_resume.pdf" target="_blank">CV</a> [CV](https://docs.google.com/viewer?url=https://github.com/soneralbayrak/resume/raw/acbe71f617faf6ffc15d760162d68b2fe9e90206/soner_albayrak_resume.pdf)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
