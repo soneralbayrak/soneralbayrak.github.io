@@ -59,6 +59,7 @@ content:
       - layout: left
         #title: The Boring Company
         link: boringcompany.com
+        link_icon: fas fa-globe
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
