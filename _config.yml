@@ -60,6 +60,10 @@ content:
         #title: The Boring Company
         link: boringcompany.com
         link_icon: fas fa-globe
+        additional_links:
+          - title: Personal Blog
+            icon: fas fa-university
+            url: https://campuspress.yale.edu/soneralbayrak/
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
