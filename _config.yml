@@ -30,10 +30,10 @@ youtube_username: :Soner Albayrak"
 orcid_username: 0000-0002-9223-0115
 
 # Additional icon links
-additional_links:
-- title: Personal Blog
-  icon: fas fa-globe
-  url: https://campuspress.yale.edu/soneralbayrak/
+#additional_links:
+#- title: Personal Blog
+#  icon: fas fa-globe
+#  url: https://campuspress.yale.edu/soneralbayrak/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome to this site! I'm a theoretical physicist and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which details who I am (both personally and profesionally). I would consider myself as a rather chill approachable person, so please do not hesitate to contact me, even if it is just to say hi!
+  Welcome to this site! I'm a theoretical physicist and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!
 
   Cheers!
 
@@ -62,7 +62,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            icon: fas fa-university
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
