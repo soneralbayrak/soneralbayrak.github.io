@@ -27,7 +27,7 @@ linkedin_username: soneralbayrak
 # pinterest_username: jekyll
 youtube_username: Soner Albayrak
 # googleplus_username: +jekyll
- orcid_username: 0000-0002-9223-0115
+ orcid_username: "0000-0002-9223-0115"
 
 # Additional icon links
 additional_links:
