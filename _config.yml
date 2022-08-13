@@ -48,7 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/SA.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome to this site! I'm a theoretical physicist and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!
+  Welcome to this site! I'm a theoretical physicist           
+          <script>
+          var quotes = ["quote 1", "quote 2<br>with html line breaks"]
+          var selected_quote = quotes[Math.floor(Math.random() * quotes.length)]
+          document.write(selected_quote)
+          </script> 
+          and this is my <mark>portfolio</mark>. At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!
 
   Cheers!
 
@@ -89,11 +95,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          I use this blog mostly for personal archieve of interesting stuff I stumble upon!
-          <script>
-          var quotes = ["quote 1", "quote 2<br>with html line breaks"]
-          var selected_quote = quotes[Math.floor(Math.random() * quotes.length)]
-          document.write(selected_quote)
-          </script>
 
         #description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and
