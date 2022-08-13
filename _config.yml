@@ -89,6 +89,12 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          I use this blog mostly for personal archieve of interesting stuff I stumble upon!
+          <script>
+          var quotes = ["quote 1", "quote 2<br>with html line breaks"]
+          var selected_quote = quotes[Math.floor(Math.random() * quotes.length)]
+          document.write(selected_quote)
+          </script>
+
         #description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and
 
