@@ -100,28 +100,11 @@ content:
         link: https://campuspress.yale.edu/soneralbayrak/
         link_text: https://campuspress.yale.edu/soneralbayrak/
         sub_title: My Old Blog
+        icon: fas fa-university
         description: |
           All contents of this blog is currently being transferred: it will be deleted once the process is finished.
-
-  - title: Further Content # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: "Blog (Turkish & English)"
-        link: https://campuspress.yale.edu/soneralbayrak/
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fas fa-university
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-         I use this blog mostly for personal archieve of interesting stuff I stumble upon!
-
-        #description: | # this will include new lines to allow paragraphs
-        #  I started this project as a way if learning <mark>React</mark> and
+        # quote: >
+        # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
 
 # Footer
 footer_show_references: true
