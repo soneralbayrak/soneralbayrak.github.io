@@ -96,7 +96,7 @@ content:
         sub_title: Academic Trivia
         description: |
           This is a mixed language blog that I write to share my opinions, knowledge, and views on various trivial topics in Academia. 
-       - layout: left
+      - layout: left
         link: https://campuspress.yale.edu/soneralbayrak/
         link_text: https://campuspress.yale.edu/soneralbayrak/
         sub_title: My Old Blog
