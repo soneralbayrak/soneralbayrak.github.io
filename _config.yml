@@ -79,6 +79,7 @@ content:
     layout: list
     content:
       - layout: left
+        link: https://soneralbayrak.com/oteberi
         link_text: https://soneralbayrak.com/oteberi
         sub_title: Öteberi
         description: |
