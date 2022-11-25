@@ -75,6 +75,15 @@ content:
             - Sporadic youtuber
             - Ex-engineer
 
+  - title: Further content
+    layout: list
+    content:
+      - layout: left
+        link_text: https://soneralbayrak.com/oteberi
+        sub_title: Öteberi
+        description: |
+          bla bla bla
+
   - title: Further Content # Title for the section
     layout: list # Type of content section (list/text)
     content:
