@@ -83,7 +83,25 @@ content:
         link_text: https://soneralbayrak.com/oteberi
         sub_title: Öteberi
         description: |
-          bla bla bla
+          This is a Turkish blog that I write mostly as a personal archieve of interesting stuff I stumble upon! 
+      - layout: left
+        link: https://soneralbayrak.com/miscellaneous
+        link_text: https://soneralbayrak.com/miscellaneous
+        sub_title: Miscellaneous
+        description: |
+          This is an English blog that I write mostly as a personal archieve of interesting stuff I stumble upon! 
+      - layout: left
+        link: https://soneralbayrak.com/academictrivia
+        link_text: https://soneralbayrak.com/academictrivia
+        sub_title: Academic Trivia
+        description: |
+          This is a mixed language blog that I write to share my opinions, knowledge, and views on various trivial topics in Academia. 
+       - layout: left
+        link: https://campuspress.yale.edu/soneralbayrak/
+        link_text: https://campuspress.yale.edu/soneralbayrak/
+        sub_title: My Old Blog
+        description: |
+          All contents of this blog is currently being transferred: it will be deleted once the process is finished.
 
   - title: Further Content # Title for the section
     layout: list # Type of content section (list/text)
