@@ -4,30 +4,14 @@
 
 @import 'modern-resume-theme';
 
-.columnSA1 {
+.columnSA {
     float: left;
-    max-width: 100%;
+    max-width: 392px;
     padding: 0px;
-  }
-  
-.columnSA2 {
-    float: right;
-    width: 392px;
-    padding: 10px;
   }
 
 .rowSA:after {
     content: "";
     display: table;
     clear: both;
-  }
-
-@media screen and (max-width: 800px) {
-    .columnSA1 {
-      width: 100%;
-    }
-    
-    .columnSA2 {
-      width: 392px;
-    }
   }

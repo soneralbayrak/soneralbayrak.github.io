@@ -48,16 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/SA.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <div class="rowSA">
-  <div class="columnSA1">
-    <p>Welcome to this site! <mark><a href="https://soneralbayrak.com/tr/">Sayfayı Türkçe görüntülemek için lütfen tıklayınız!</a></mark></p>
-    <p>At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!</p>
-    <p>Cheers!</p>
-  </div>
-  <div class="columnSA2">
-    <a href='https://clustrmaps.com/site/1brph'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e6e6e6&w=382&t=m&d=bMogZdwIPWN3efwlqjIn5f_RX77ALLz_axKSr3jvT40&co=222222&ct=e6e6e6'/></a>
-  </div>
-  </div>
+  <p>Welcome to this site! <mark><a href="https://soneralbayrak.com/tr/">Sayfayı Türkçe görüntülemek için lütfen tıklayınız!</a></mark></p>
+  <p>At the top of the page, you can find various icons leading to social platforms which detail who I am -- both personally and profesionally. I would consider myself as a rather chill and an approachable person so please do not hesitate to contact me, even if it is just to say hi!</p>
+  <p>Cheers!</p>
 
 content:
   - title: Some Details # Title for the section
@@ -109,6 +102,12 @@ content:
           All contents of this blog is currently being transferred: it will be deleted once the process is finished.
         # quote: >
         # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
+  - title: Page visits
+    <div class="rowSA">
+    <div class="columnSA">
+      <a href='https://clustrmaps.com/site/1brph'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e6e6e6&w=382&t=m&d=bMogZdwIPWN3efwlqjIn5f_RX77ALLz_axKSr3jvT40&co=222222&ct=e6e6e6'/></a>
+    </div>
+    </div>
 
 # Footer
 footer_show_references: true
