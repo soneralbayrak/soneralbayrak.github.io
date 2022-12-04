@@ -6,13 +6,13 @@
 
 .columnSA1 {
     float: left;
-    width: 50%;
+    max-width: 100%;
     padding: 0px;
   }
   
 .columnSA2 {
     float: right;
-    width: 50%;
+    width: 392px;
     padding: 10px;
   }
 
@@ -22,12 +22,12 @@
     clear: both;
   }
 
-@media screen and (max-width: 764px) {
+@media screen and (max-width: 800px) {
     .columnSA1 {
       width: 100%;
     }
     
     .columnSA2 {
-      width: 100%;
+      width: 392px;
     }
   }
