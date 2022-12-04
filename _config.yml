@@ -54,6 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   Cheers!
 
+  <a href="https://clustrmaps.com/site/1brph" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=bMogZdwIPWN3efwlqjIn5f_RX77ALLz_axKSr3jvT40&cl=ffffff"></a>
+
 content:
   - title: Some Details # Title for the section
     layout: list # Type of content section (list/text)
