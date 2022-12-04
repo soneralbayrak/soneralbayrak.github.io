@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
     <p><a href='https://clustrmaps.com/site/1brph'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e6e6e6&w=a&t=n&d=bMogZdwIPWN3efwlqjIn5f_RX77ALLz_axKSr3jvT40&co=222222&ct=e6e6e6'/></a></p>
     (Visitor Log)
   </div>
-</div>
+  </div>
 
 content:
   - title: Some Details # Title for the section
