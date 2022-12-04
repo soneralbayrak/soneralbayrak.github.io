@@ -102,11 +102,16 @@ content:
           All contents of this blog is currently being transferred: it will be deleted once the process is finished.
         # quote: >
         # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
-  - title: Page visits
+  - title: Epilog
     layout: text
     content:
       <div class="rowSA">
       <div class="columnSA">
+        <h3>Chaoskampf</h3>
+        <a title='Visit tracker'><img src="images/chaoskampf.png"/></a>
+        </div>
+      <div class="columnSA">
+        <h3>Visitor Log</h3>
         <a href='https://clustrmaps.com/site/1brph'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=e6e6e6&w=382&t=m&d=bMogZdwIPWN3efwlqjIn5f_RX77ALLz_axKSr3jvT40&co=222222&ct=e6e6e6'/></a>
         </div>
       </div>
