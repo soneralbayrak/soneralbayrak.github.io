@@ -102,8 +102,7 @@ content:
           All contents of this blog is currently being transferred: it will be deleted once the process is finished.
         # quote: >
         # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
-  - title: Epilog
-    layout: text
+  - layout: text
     content:
       <div class="rowSA">
       <div class="columnSA">
