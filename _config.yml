@@ -126,10 +126,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-mastodon:
-  username: soneralbayrak
-  instance: mastodon.social
-
 plugins:
  - jekyll-seo-tag
- - jekyll/mastodon_webfinger
