@@ -100,6 +100,12 @@ content:
         sub_title: My Old Blog
         description: |
           All contents of this blog is currently being transferred: it will be deleted once the process is finished.
+      - layout: left
+        link: https://soneralbayrak.com/universe2048/
+        link_text: https://soneralbayrak.com/universe2048/
+        sub_title: A physics browser game
+        description: |
+          This is a clon of the once-rather-famous game <a href="https://play2048.co/" target="_blank">2048</a>, modified as a basic introduction to particle physics. 
         # quote: >
         # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
       - layout: text
