@@ -35,7 +35,7 @@ additional_links:
   icon: fas fa-scroll
   url: https://inspirehep.net/authors/1375262
 - title: Mastodon Profile
-  icon: fas fa-mastodon
+  icon: fab fa-mastodon
   url: https://mastodon.social/@soneralbayrak
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
