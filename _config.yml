@@ -98,12 +98,6 @@ content:
         description: |
           This is a mixed language blog that I write to share my opinions, knowledge, and views on various trivial topics in Academia. 
       - layout: left
-        link: https://campuspress.yale.edu/soneralbayrak/
-        link_text: https://campuspress.yale.edu/soneralbayrak/
-        sub_title: My Old Blog
-        description: |
-          All contents of this blog is currently being transferred: it will be deleted once the process is finished.
-      - layout: left
         link: https://soneralbayrak.com/universe2048/
         link_text: https://soneralbayrak.com/universe2048/
         sub_title: A physics browser game
