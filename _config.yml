@@ -84,13 +84,13 @@ content:
         link_text: https://soneralbayrak.com/oteberi
         sub_title: Öteberi
         description: |
-          This is a Turkish blog that I write mostly as a personal archieve of interesting stuff I stumble upon! 
+          This is a Turkish blog that I write mostly as a personal archive of interesting stuff I stumble upon! 
       - layout: left
         link: https://soneralbayrak.com/miscellaneous
         link_text: https://soneralbayrak.com/miscellaneous
         sub_title: Miscellaneous
         description: |
-          This is an English blog that I write mostly as a personal archieve of interesting stuff I stumble upon! 
+          This is an English blog that I write mostly as a personal archive of interesting stuff I stumble upon! 
       - layout: left
         link: https://soneralbayrak.com/academictrivia
         link_text: https://soneralbayrak.com/academictrivia
@@ -104,7 +104,7 @@ content:
         description: |
           This is a clon of the once-rather-famous game <a href="https://play2048.co/" target="_blank">2048</a>, modified as a basic introduction to particle physics. 
         # quote: >
-        # I use this blog mostly for personal archieve of interesting stuff I stumble upon!
+        # I use this blog mostly for personal archive of interesting stuff I stumble upon!
       - layout: text
         description: |
           <div class="rowSA">
