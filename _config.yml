@@ -80,6 +80,12 @@ content:
     layout: list
     content:
       - layout: left
+        link: https://soneralbayrak.com/teaching
+        link_text: https://soneralbayrak.com/teaching
+        sub_title: Teaching
+        description: |
+          This site contains all the details regarding my teaching at the Middle East Technical University.
+      - layout: left
         link: https://soneralbayrak.com/oteberi
         link_text: https://soneralbayrak.com/oteberi
         sub_title: Öteberi
